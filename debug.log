@@ -1,0 +1,2 @@
+[1125/122953.028:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Det går inte att hitta filen. (0x2)
+[1128/084557.464:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Det går inte att hitta filen. (0x2)
